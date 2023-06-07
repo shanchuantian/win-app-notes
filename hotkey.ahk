@@ -23,8 +23,10 @@
 
 ;复制粘贴alt+c/v/z
 !c::Send ^c
+!x::Send ^x
 !v::Send ^v
 !z::Send ^z
+
 ;插入时间
 ^;::
 ClipTemp = %Clipboard%
