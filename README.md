@@ -1,3 +1,4 @@
+# windows 应用
 [pomotodo](pomotodo.com)
 
 notepad++
@@ -42,4 +43,18 @@ everything
 
 AnyTXT Searcher - 本地全文搜搜
 
+# chrome 插件
 
+- 印象笔记·剪藏
+- Copy Tabs Title URL
+- crxMouse Chrome™ 手势
+- Dark Reader
+- DarkPDF
+- dotEPUB
+- Free Download Manager
+- Google 翻译
+- Youtube 播放速度控制
+- Vimium
+- YouTube Subtitle
+- 沉浸式翻译
+- 猫抓
