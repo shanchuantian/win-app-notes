@@ -28,7 +28,7 @@
 !z::Send ^z
 
 ;插入时间
-^;::
+^'::
 ClipTemp = %Clipboard%
 FormatTime , Clipboard , , HH':'mm
 Send ^v

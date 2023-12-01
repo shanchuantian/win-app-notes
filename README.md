@@ -1,9 +1,17 @@
 # windows 应用
-[pomotodo](pomotodo.com)
 
-notepad++
+- calibre - 电子书管理
 
-git
+    插件：
+
+    [calibre-douban](https://github.com/fugary/calibre-douban) - Calibre 新的豆瓣元数据源插件。
+
+    [calibre-do-not-translate-my-path](https://github.com/Cirn09/calibre-do-not-translate-my-path) - 将我的书库从拼音目录切换至非纯英文（中文）命名
+    [pomotodo](pomotodo.com)
+
+- notepad++
+
+- git
 wget
 gcc？MinGW，[安装](https://cloud.tencent.com/developer/article/1627901)
 cloc
